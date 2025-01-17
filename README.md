@@ -1,2 +1,2 @@
 # Monitoring
-Ce repository centralise les informations issues de ma veille sur le développement web. Articles, ressources, tutoriels et idées y sont organisés pour suivre les tendances et approfondir mes connaissances en vue de devenir développeur.
+This repository centralizes information from my digital watch on web development. Articles, resources, tutorials, and ideas are organized here to track trends and deepen my knowledge as I work toward becoming a developer.
